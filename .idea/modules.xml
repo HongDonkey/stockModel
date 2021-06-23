@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/stockmodel.iml" filepath="$PROJECT_DIR$/.idea/stockmodel.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/tradingbot.iml" filepath="$PROJECT_DIR$/.idea/tradingbot.iml" />
+>>>>>>> d5d641d9a6cb3632ec0ab032975c2023d4c3b909
+    </modules>
+  </component>
+</project>
